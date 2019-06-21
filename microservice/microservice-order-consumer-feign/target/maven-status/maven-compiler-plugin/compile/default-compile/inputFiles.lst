@@ -1,0 +1,4 @@
+E:\springcloudDemo6\microservice\microservice-order-consumer-feign\src\main\java\itcodai\springcloud\controller\OrderConsumerController.java
+E:\springcloudDemo6\microservice\microservice-order-consumer-feign\src\main\java\itcodai\springcloud\OrderConsumerFegin.java
+E:\springcloudDemo6\microservice\microservice-order-consumer-feign\src\main\java\itcodai\springcloud\service\OrderClientService.java
+E:\springcloudDemo6\microservice\microservice-order-consumer-feign\src\main\java\itcodai\springcloud\config\OrderClientServiceFallbackFactory.java

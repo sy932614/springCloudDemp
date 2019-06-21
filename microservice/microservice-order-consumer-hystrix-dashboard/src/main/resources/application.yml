@@ -1,0 +1,22 @@
+# 服务端口号
+server:
+  port: 9003
+
+# 客户端注册进eureka服务列表里
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka01:7001/eureka/,http://eureka02:7002/eureka/,http://eureka03:7003/eureka/
+  instance:
+    instance-id: 订单服务-8001 #人性化显示出服务的信息
+    prefer-ip-address: true   #访问路径可显示Ip地址
+
+# 用来展示项目的基本信息(在eureka显示页面中点击地址时显示的信息)
+info:
+  author.name: sy
+  app.name: microservice
+  server.port: ${server.port}
+  application.name: ${spring.application.name}
+
+
+

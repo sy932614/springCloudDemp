@@ -1,0 +1,5 @@
+itcodai\springcloud\controller\OrderConsumerController.class
+itcodai\springcloud\config\OrderClientServiceFallbackFactory.class
+itcodai\springcloud\config\OrderClientServiceFallbackFactory$1.class
+itcodai\springcloud\OrderConsumerFegin.class
+itcodai\springcloud\service\OrderClientService.class

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservice.iml" filepath="$PROJECT_DIR$/microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/microservice-common/microservice-common.iml" filepath="$PROJECT_DIR$/microservice/microservice-common/microservice-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/microservice-config/microservice-config.iml" filepath="$PROJECT_DIR$/microservice/microservice-config/microservice-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/microservice-config-client/microservice-config-client.iml" filepath="$PROJECT_DIR$/microservice/microservice-config-client/microservice-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/microservice-eureka01/microservice-eureka01.iml" filepath="$PROJECT_DIR$/microservice/microservice-eureka01/microservice-eureka01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/microservice-eureka02/microservice-eureka02.iml" filepath="$PROJECT_DIR$/microservice/microservice-eureka02/microservice-eureka02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/microservice-eureka03/microservice-eureka03.iml" filepath="$PROJECT_DIR$/microservice/microservice-eureka03/microservice-eureka03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/microservice-order-consumer/microservice-order-consumer.iml" filepath="$PROJECT_DIR$/microservice/microservice-order-consumer/microservice-order-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/microservice-order-consumer-feign/microservice-order-consumer-feign.iml" filepath="$PROJECT_DIR$/microservice/microservice-order-consumer-feign/microservice-order-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/microservice-order-consumer-hystrix-dashboard/microservice-order-consumer-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/microservice/microservice-order-consumer-hystrix-dashboard/microservice-order-consumer-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/microservice-order-provider01-hystrix/microservice-order-provider01-hystrix.iml" filepath="$PROJECT_DIR$/microservice/microservice-order-provider01-hystrix/microservice-order-provider01-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/microservice-order-provider02/microservice-order-provider02.iml" filepath="$PROJECT_DIR$/microservice/microservice-order-provider02/microservice-order-provider02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/microservice-order-provider03/microservice-order-provider03.iml" filepath="$PROJECT_DIR$/microservice/microservice-order-provider03/microservice-order-provider03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/microservice-zuul-gateway/microservice-zuul-gateway.iml" filepath="$PROJECT_DIR$/microservice/microservice-zuul-gateway/microservice-zuul-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice/microserviceorderprovider01/microserviceorderprovider01.iml" filepath="$PROJECT_DIR$/microservice/microserviceorderprovider01/microserviceorderprovider01.iml" />
+    </modules>
+  </component>
+</project>
